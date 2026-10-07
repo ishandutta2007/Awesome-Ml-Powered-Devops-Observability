@@ -61,7 +61,7 @@ The table below lists top commercial ML-powered observability and AIOps platform
 
 ## ⚡ Open-Source GitHub Projects
 
-The open-source ML observability ecosystem is categorized below and sorted strictly by **GitHub Stars_Count (descending)**. Each badge links directly to the repository's stargazers page.
+The open-source ML observability ecosystem is categorized below and sorted strictly by **GitHub_Stars_Count (descending)**. Each badge links directly to the repository's stargazers page.
 
 ### Zero-Instrumentation & Edge ML Observability
 
@@ -129,7 +129,7 @@ Contributions are warmly welcomed! Help keep this directory comprehensive and up
 
 1. **Fork** the repository.
 2. Edit `README.md` following the table / list schema.
-3. Ensure entries include exact project name, link, concise feature summary, pricing details (for SaaS), or GitHub Stars_Badges (for OSS).
+3. Ensure entries include exact project name, link, concise feature summary, pricing details (for SaaS), or GitHub_Stars_Badges (for OSS).
 4. Submit a **Pull Request** with a clear title and description.
 
 ---
